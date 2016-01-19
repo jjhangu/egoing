@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 	<header>헤드태그 추가</header>
 	<body>
 		<head>
@@ -6,6 +6,7 @@
 			<title>Git 수업</title>
 		</head>
 		<ul>
+			<li>cloned hoho</li>
 			<li>origin jjhangu</li>
 			<li>깃이란 무엇인가</li>
 			<li>branch</li>

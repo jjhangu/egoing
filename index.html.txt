@@ -1,4 +1,5 @@
 <html>
+	<header>헤드태그 추가</header>
 	<body>
 		<head>
 			<title>Git 수업</title>

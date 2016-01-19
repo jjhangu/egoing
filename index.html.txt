@@ -4,7 +4,7 @@
 			<title>Git 수업</title>
 		</head>
 		<ul>
-	
+			<li>깃이란 무엇인가</li>
 	
 		</ul>
 	</body>

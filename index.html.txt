@@ -1,5 +1,5 @@
 <html>
-	<head>헤드태그 추가</head>
+	<header>헤드태그 추가</header>
 	<body>
 		
 	</body>

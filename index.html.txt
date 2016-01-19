@@ -2,6 +2,7 @@
 	<header>헤드태그 추가</header>
 	<body>
 		<head>
+			<meta></meta>
 			<title>Git 수업</title>
 		</head>
 		<ul>

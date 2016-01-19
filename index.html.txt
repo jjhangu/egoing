@@ -16,7 +16,7 @@
 			<li>원격저장소 추사</li>
 			<li>push jjhangu</li>
 			<li>pull cloned</li>
-			<li>외부도구2diff</li>
+			<li>외부도구diffThis is good</li>
 		</ul>
 	</body>
 </html>

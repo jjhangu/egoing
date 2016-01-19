@@ -13,6 +13,7 @@
 			<li>충돌해결</li>
 			<li>원격저장소 추사</li>
 			<li>push jjhangu</li>
+			<li>pull cloned</li>
 		</ul>
 	</body>
 </html>
